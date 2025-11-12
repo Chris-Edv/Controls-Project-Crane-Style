@@ -132,6 +132,28 @@ More detailed models including cable sway are possible if required.
 Final outputs include a functioning prototype, source code, technical documentation, and a demonstration.
 
 \section{Reference Materials}
-(References remain as in original.)
+\begin{thebibliography}{9}
+
+\bibitem{Yong2023}
+Yong, Y. P., Lee, S. J., Chang, Y. H., Lee, K. H., Kwon, S. W., Cho, C. S., \& Chung, S. W. (2023). 
+Object detection and distance measurement algorithm for collision avoidance of precast concrete installation during crane lifting process. 
+\textit{Buildings, 13}(10), 2551. 
+https://doi.org/10.3390/buildings13102551
+
+\bibitem{Gu2012}
+Gu, L., Kou, X., \& Jia, J. (2012, August). 
+Distance measurement for tower crane obstacle based on multi-ultrasonic sensors. 
+In \textit{Proceedings of the 2012 IEEE International Conference on Automation Science and Engineering (CASE)} 
+(pp. 1028--1032). IEEE. 
+https://doi.org/10.1109/CoASE.2012.6386344
+
+\bibitem{Wang2023}
+Wang, J., Zhang, Q., Yang, B., \& Zhang, B. (2023). 
+Vision-based automated recognition and 3D localization framework for tower cranes using far-field cameras. 
+\textit{Sensors, 23}(10), 4851. 
+https://doi.org/10.3390/s23104851
+
+\end{thebibliography}
+
 
 \end{document}
